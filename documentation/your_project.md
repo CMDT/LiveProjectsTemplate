@@ -20,7 +20,7 @@ The rest of this article is a guide on what to do and expect as you work on this
 ## Your Effort. How much?
 ### The Budget
 
-In this project you'll find a spreadsheet file which contains a tool to help you budget: [Your Budget](./budget/effort_committment.xlsx)
+In this project you'll find a spreadsheet file which contains a tool to help you budget: [Your Budget](./budget/effort_commitment.xlsx)
 
 Use it to figure out how much effort your team can commit to your project -  and to imagine what it is possible to achieve, when you start to work out what needs to be done.
 
