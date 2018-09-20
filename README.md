@@ -12,25 +12,25 @@ To keep you and your client safe, here are some ground rules:
 * **NO real names** 
   * no personally attributable data of any sort
 
-##Contents
+## Contents
 
-### Folders
+###  Folders
 
-####docs
+#### docs
 
 Holds live wireframes for the project. 
 
 (Can also be used to hold the published code, if deploying a single project to GitHub Pages).
 
-####documentation
+#### documentation
 
 Holds documentation for the project. See folder for details
 
-####code
+#### code
 
 Holds the code for the project (if only one github project is required for the product).
 
-####investigations
+#### investigations
 
 Example code, and helpful snippets
 
@@ -38,7 +38,7 @@ Example code, and helpful snippets
 
 Link to your sub-projects here. Clone the [sub-project repo](https://github.com/CMDT/LiveProjectsSubProject) for each one.
 
-###Trello
+### Trello
 
 Link to your Trello boards here:
 
