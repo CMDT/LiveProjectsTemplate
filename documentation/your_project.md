@@ -70,7 +70,7 @@ The Client Advocate must understand the client's reasons for undertaking the pro
 
 The Client gets deliveries through the Project Manager, and passes them to the Client. They are the last line of checking to make sure everything is OK! 
 
-####User Advocate
+#### User Advocate
 
 Responsible for representing the interests of the end-users. 
 
@@ -79,7 +79,7 @@ Responsible for representing the interests of the end-users.
 
 The User Advocate must understand the user's reasons for using the product, and must represent them during any discussion.
 
-####Technical Lead
+#### Technical Lead
 
 Responsible for collating the technical information on the project, and disseminating it to the team. 
 
@@ -91,7 +91,7 @@ The information provided by the technical lead is essential in understanding how
 
 The Technical Lead is responsible for the construction and integrity of each delivery (does it contain the expected features, does it work).
 
-####Project Manager
+#### Project Manager
 
 Responsible for collating the status of the project, and disseminating it to the team:
 
@@ -197,7 +197,7 @@ Made available for general testing
 ### Release
 Final release for showcase. 
 
-##What is a delivery?
+## What is a delivery?
 
 Your project exists as a set of files in a code repository (our favourite is [GitHub](https://github.com/)). When you make a delivery, your source code is deployed into the product, so that it can be used and tested by the Client. 
 
