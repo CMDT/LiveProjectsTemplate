@@ -177,6 +177,7 @@ We're looking for a really good understanding of the requirements, with a design
 **Deliverable:** Document.  
 * Refined design: Features, Components, Tasks. 
 * Project plan: scheduling of tasks into 5 sprints of effort.
+* Proposal: Statement of the design and the effort needed, for the client to agree to, before moving on to construction.
 
 ### Sprints
 **Object:** complete tasks, make a demo.  
