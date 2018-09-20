@@ -16,21 +16,21 @@ To keep you and your client safe, here are some ground rules:
 
 ###  Folders
 
-#### docs
+#### [docs](https://cmdt.github.io/LiveProjectsTemplate/#/page/start)
 
 Holds live wireframes for the project. 
 
 (Can also be used to hold the published code, if deploying a single project to GitHub Pages).
 
-#### documentation
+#### [documentation](./documentation/readme.md)
 
 Holds documentation for the project. See folder for details
 
-#### code
+#### [code](./code/readme.md)
 
 Holds the code for the project (if only one github project is required for the product).
 
-#### investigations
+#### [investigations](./investigations/readme.md)
 
 Example code, and helpful snippets
 
