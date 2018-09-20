@@ -7,7 +7,7 @@ Not to be confused with /docs - this contains the exported output from ./wirefra
 
 ## Contents
 
-**your_project.md**: about your project and how to get started.
+**[your_project.md](./your_project.md)**: about your project and how to get started.
 
 ### [attribution](./attribution/attribution.md)
 
