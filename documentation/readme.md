@@ -5,9 +5,9 @@ Not to be confused with /docs - this contains the exported output from ./wirefra
 
 ----
 
-##Contents
+## Contents
 
-**your_project.md** about your project and how to get started.
+**your_project.md**: about your project and how to get started.
 
 ### budget
 
