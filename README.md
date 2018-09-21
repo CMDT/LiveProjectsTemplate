@@ -14,7 +14,7 @@ This is a template, which lays out a structure for a main project. It can be use
 
 **Your repo will turn up on public searches.** Likely initiated by people just like yourself; desperate for information. Please help them!
 
-* Keep your code clear and consise
+* Keep your code clear and concise
 * Constructive comments only
 * Give a helpful overview or how-to in a readme.md
 
