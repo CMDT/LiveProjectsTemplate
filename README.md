@@ -56,6 +56,7 @@ Link to your Trello boards here:
 
 * Overview
 * Discussions
+* User Stories
 * Investigations
 * Implementations
 * Features
