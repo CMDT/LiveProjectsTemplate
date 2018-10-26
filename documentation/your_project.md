@@ -1,5 +1,5 @@
 ## Your Project
-Welcome to your Digital Labs Live Project!
+Welcome to your Live Project!
 
 Projects run from start of October, to end of March, where there is a showcase event.   
 **Project Time:** 22 weeks  
@@ -63,10 +63,16 @@ Your project needs certain fundamental roles to be fulfilled for the best chance
 
 Responsible for the team's relationship with the client. All communications with the client go through the Client Advocate.
 
-* Progress (good and bad)
-* Deliveries
-
 The Client Advocate must understand the client's reasons for undertaking the project, and must represent them during any discussion.
+
+The Client Advocate:
+
+* Talks to the client. Main point of contact. 
+* Grasps an in-depth understanding of the requirements from the point of view of the client
+* Works with the Tech Lead and User Advocate, to define the features of the product
+* Advocates the client in any design decisions
+* Regularly communicates with the client and ensures they know where the project is at all points.
+* **Ensures delivery**
 
 The Client gets deliveries through the Project Manager, and passes them to the Client. They are the last line of checking to make sure everything is OK! 
 
@@ -74,18 +80,26 @@ The Client gets deliveries through the Project Manager, and passes them to the C
 
 Responsible for representing the interests of the end-users. 
 
-* User Stories 
-* UI design
-
-The User Advocate must understand the user's reasons for using the product, and must represent them during any discussion.
+* Discusses, summarises and communicates the user-interface design to the team
+* Grasps an in-depth understanding of the requirements from the point of view of the user
+* Works with the Tech Lead and Client Advocate to define the features of the product
+* Advocates the user in any design decisions
+* Plans the tests to be performed on the product
+* Organises and performs testing before release 
+* Collates and communicates live issues on the product to the rest of the team 
 
 #### Technical Lead
 
 Responsible for collating the technical information on the project, and disseminating it to the team. 
 
-* Evaluation of tools, platforms
-* Example code
-* The overall design
+The Tech Lead:
+
+* Discusses, summarises and communicates the design with the rest of the team
+* Grasps an in-depth understanding of the design, and the technologies to be used to implement it
+* Reduces the design to a set of components
+* Works with the project manager to build the tasklist (backlog) from the component design
+* Advocates technical feasibility in any design decisions
+* Collates and communicates technical solutions to the rest of the team
 
 The information provided by the technical lead is essential in understanding how a product is to be designed and implemented with the time and resources available, with the lowest effort, lowest risk.
 
@@ -95,13 +109,20 @@ The Technical Lead is responsible for the construction and integrity of each del
 
 Responsible for collating the status of the project, and disseminating it to the team:
 
-* Tasks left to do
-* People doing the tasks
-* Time and Effort remaining
+The Project Manager:
+
+* Records the effort available (budget) against the tasks to be done (backlog).
+* Grasps an in-depth understanding of the progress of the project
+* Works with the Tech Lead to create a task list(backlog) from the design.
+* Advocates the budget in any design decisions
+* Regularly canvases the team for their availability
+* Schedules and communicates the tasks to be done, when, and who is assigned to them.
 
 The information provided by the Project Manager is essential in understanding what needs to be done to complete the current sprint and the product as a whole. 
 
 The project manager is responsible for checking the delivery supplied by the Technical Lead, collating release notes, and passing on to the Client Advocate.
+
+#### Everyone
 
 With small teams, **everyone** is responsible for testing and coding.
 
@@ -137,7 +158,7 @@ Build up a good set of example code, links to resources, etc.
 Start with nominating a Project Manager, Technical Lead, Client Advocate and User Advocate  
 Have a requirements meeting with your client.
 
-Gather requirements from the client and feed into the technical investigation. Project Manager and Technical Lead are responsible for interpreting the clients needs, and communicating them effectively.  
+Gather requirements from the client and feed into the technical investigation. Technical Lead, Client Advocate, User Advocate are responsible for interpreting the clients needs, and communicating them effectively.  
 **Deliverable:** Document. First draft Requirements. This document is based on the first bits of the technical investigation and focusses on what might be possible in the project.
 
 ### Requirements 2
@@ -152,11 +173,13 @@ Provide a description of the product to be delivered:
 * describe the beheviour of the product
 * describe what technologies will be used.
 
-Provide a first-guess estimate:
+Provide a **first-guess** estimate:
 * how much effort (in developer-hours) it will take to do each feature.
 * how much effort (in developer-hours) it will take to do the whole project. That's features plus testing, integration, and contingency for when stuff goes wrong.
 * seperate the features into 'essential' and nice-to-have.
 * define the minimum viable feature-set.
+
+*It's worth mentioning here, that the first-guess estimate is going to be very inaccurate - you need to go through the design phase to get one which is halfway usable. Your estimate becomes more acturate as you go through the project, and is 100% accurate on the last day :-)*
 
 ### Features Design 1
 **Object:**  Produce an underlying design on which to develop the features.
@@ -240,11 +263,11 @@ Each team member in-turn says what they did yesterday, what they intend to do to
 If anyone is close to finishing a task, they can nominate themselves for the next task, or have one assigned by the rest of the team, via the project manager and technical lead.  
 The stand-up is short; the name comes from people standing-up to have the meeting (if your feet get tired, you've been there too long. Wrap it up!)
 ## With your client
-That's us.
-DigitalLabs has lots of projects running this year. And it's really important to communicate effectively.
-That's why we've introduced [Alice](https://github.com/AliceDigitalLabs).  
-Alice is your gateway to DigitalLabs, for deliverables and support.    
-**Most important, though:** all communication with DigitalLabs needs to be via your project manager, and Alice. That makes it easy :-)
+**Most important:** all communication with your client needs to be via your Client Advocate. That makes it easy :-)
+
+### DigitalLabs
+
+If your client is DigitalLabs, use [Alice](https://github.com/AliceDigitalLabs) as your point of contact. She is your gateway to DigitalLabs, for deliverables and support.
 
 
 
