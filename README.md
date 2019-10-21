@@ -28,7 +28,7 @@ This is a template, which lays out a structure for a main project. It can be use
 
 ###  Folders
 
-#### [docs](https://cmdt.github.io/LiveProjectsTemplate/#/page/start)
+#### [docs](https://liveprojects-julien.github.io/LiveProjectsTemplate/#/page/start)
 
 Holds live wireframes for the project. 
 
